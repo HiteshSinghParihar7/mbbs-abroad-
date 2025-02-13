@@ -3,7 +3,7 @@
 🚀 **Your Gateway to a Successful Medical Career**  
 
 ## 📌 Live Demo  
-🔗 [Check it out on Netlify/Vercel](YOUR_LIVE_DEMO_LINK)  
+🔗 [Check it out on Netlify/Vercel](https://mbbs-abroad-iaj4.vercel.app/)  
 
 ---
 
